@@ -8,7 +8,7 @@ hashes =2
 for i in range(h):
     
 
-    print(" " * spaces,"#"*hashes, end="")
+    print(" " * spaces,"##"*hashes, end="")
     spaces -=1
     hashes +=2
 
